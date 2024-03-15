@@ -1,0 +1,15 @@
+GeoDatabase:
+
+load()
+if the number of lines is N, then the time complexity is O(N) because we go through each line once
+
+get_connected_points()
+if N is the number of associations in the map, since the function calls the HashMaps find function, the time complexity is O(1) time because it only searches through one bucket if the key exists.
+
+get_street_name()
+if N is the number of associations in the map, since the function calls the find function as well, the time complexity is O(1)
+
+Router:
+
+route()
+I used the A* algorithm. I used a STL map for both the open and closed map, which has a key of type string and a value of type struct that I created, called mapInfo, which contains a string of the parent and the f and g value (used to calculate distance related)

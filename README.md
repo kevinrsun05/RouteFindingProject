@@ -1,7 +1,7 @@
 # RouteFindingProject
 Find optimal route between locations near UCLA based on data of locations/streets and coordinates
 
-Example route from Diddy Riese -> Ami Sushi -> Fox Theater
+Example route generated from Diddy Riese -> Ami Sushi -> Fox Theater
 ```
 Starting tour...
 Welcome to Diddy Riese!

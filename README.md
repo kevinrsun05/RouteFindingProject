@@ -2,7 +2,7 @@
 Find optimal route between locations near UCLA based on data of locations/streets and coordinates
 
 Example route from Diddy Riese -> Ami Sushi -> Fox Theater
-'''
+```
 Starting tour...
 Welcome to Diddy Riese!
 This is where you get cheap yummy cookies.
@@ -22,4 +22,4 @@ Welcome to Fox Theater!
 Watch a movie premiere here with the big shots.
 Your tour has finished!
 Total tour distance: 0.250 miles
-'''
+```
